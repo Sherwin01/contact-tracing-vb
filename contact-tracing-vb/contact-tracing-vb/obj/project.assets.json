@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lim\\OneDrive\\Desktop\\vb\\contact-tracing-vb\\contact-tracing-vb\\contact-tracing-vb.vbproj",
+      "projectUniqueName": "C:\\Users\\Lim\\OneDrive\\Desktop\\vbassignment\\contact-tracing-vb\\contact-tracing-vb\\contact-tracing-vb.vbproj",
       "projectName": "contact-tracing-vb",
-      "projectPath": "C:\\Users\\Lim\\OneDrive\\Desktop\\vb\\contact-tracing-vb\\contact-tracing-vb\\contact-tracing-vb.vbproj",
+      "projectPath": "C:\\Users\\Lim\\OneDrive\\Desktop\\vbassignment\\contact-tracing-vb\\contact-tracing-vb\\contact-tracing-vb.vbproj",
       "packagesPath": "C:\\Users\\Lim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lim\\OneDrive\\Desktop\\vb\\contact-tracing-vb\\contact-tracing-vb\\obj\\",
+      "outputPath": "C:\\Users\\Lim\\OneDrive\\Desktop\\vbassignment\\contact-tracing-vb\\contact-tracing-vb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lim\\AppData\\Roaming\\NuGet\\NuGet.Config",
